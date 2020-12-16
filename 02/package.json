@@ -1,0 +1,16 @@
+{
+  "name": "adventofcode2017-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p1.js",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "stream-reduce": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joakim Wånggren <joakim.wanggren@gmail.com> (http://joakimwanggren.se)",
+  "license": "ISC"
+}
